@@ -13,7 +13,7 @@
     "test:watch": "vitest",
     "test:e2e": "playwright test",
     "postbuild": "next-sitemap",
-    "prepare": "playwright install --with-deps"
+    "prepare": "npx playwright install"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.2.2",
