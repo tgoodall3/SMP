@@ -1,0 +1,47 @@
+[
+  {
+    "city": "Fortville",
+    "description": "Headquartered on Main Street in Fortville, we understand Hancock County soil conditions, clay sewer laterals, and the rapid growth happening downtown.",
+    "highlightJobs": [
+      "Sump and ejector pump installs along the Buck Creek floodplain",
+      "Kitchen and bath updates for Main Street remodels",
+      "Well-to-city water conversions for rural Fortville properties"
+    ]
+  },
+  {
+    "city": "Fishers",
+    "description": "Quick response across Geist, Hamilton Proper, and the Nickel Plate District - perfect for busy households that expect punctual techs.",
+    "highlightJobs": [
+      "Water softener and filtration upgrades for hard water",
+      "Sewer camera inspections in older mains around Geist Reservoir",
+      "Fixture replacements during kitchen and bath refreshes"
+    ]
+  },
+  {
+    "city": "Indianapolis Northside",
+    "description": "Meridian-Kessler to Castleton, Broad Ripple to Nora - we keep older cast-iron and newer PVC systems running smoothly.",
+    "highlightJobs": [
+      "Hydro-jetting and root removal on mature tree-lined streets",
+      "Booster pump installs and pressure balancing in multi-story homes",
+      "Emergency freeze and burst repairs off College and Meridian"
+    ]
+  },
+  {
+    "city": "Indianapolis Southside",
+    "description": "Serving Greenwood, Beech Grove, Fountain Square, and the I-65 corridor with reliable scheduling and weekend availability.",
+    "highlightJobs": [
+      "Sewer stack replacements in classic craftsman homes",
+      "Gas line additions for kitchen and outdoor living upgrades",
+      "Backflow testing and repairs for small businesses along US-31"
+    ]
+  },
+  {
+    "city": "Greenfield",
+    "description": "From McCordsville to downtown Greenfield, we support families and light commercial spaces across Hancock County.",
+    "highlightJobs": [
+      "Water heater replacements with code upgrades and haul-away",
+      "Basement bathroom rough-ins for expanding households",
+      "Leak detection and reroutes to stop slab and crawlspace issues"
+    ]
+  }
+]

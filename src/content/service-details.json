@@ -1,0 +1,293 @@
+[
+  {
+    "slug": "emergency-plumbing",
+    "title": "Emergency Plumbing",
+    "excerpt": "Urgent leaks, sewer backups, and burst pipes handled by on-call techs 24/7.",
+    "icon": "emergency",
+    "hero": {
+      "headline": "Emergency plumbers who actually pick up the phone.",
+      "subheadline": "We dispatch licensed techs day or night with clear pricing and clean, respectful service."
+    },
+    "problems": [
+      "Burst pipes, failed shutoff valves, and flooding basements",
+      "Sewer line backups and overflows into tubs, showers, or floor drains",
+      "Broken water heaters leaking or shutting down before a busy day",
+      "Toilets overflowing or refusing to flush"
+    ],
+    "symptoms": [
+      "Water pooling near fixtures or walls humming with water noise",
+      "Sewer odors coming from drains or floor cleanouts",
+      "No water pressure or rusty water suddenly from taps",
+      "Constant cycling sump pump struggling to keep up"
+    ],
+    "solutions": [
+      "Rapid shutoff, damage mitigation, and stabilization of the situation",
+      "Camera inspection and mechanical clearing on main sewer backups",
+      "Emergency water heater repairs or temporary solutions until replacement",
+      "Clean removal of standing water and anti-bacterial cleaning recommendations"
+    ],
+    "expectations": [
+      "Live dispatcher who gathers the basics and routes the nearest tech",
+      "Arrival updates by text and a uniformed plumber with shoe covers",
+      "Straight talk on cause, options, and transparent pricing before work",
+      "Permanent fix when possible, or safe temporary repair until parts arrive"
+    ],
+    "faqs": [
+      {
+        "question": "Do you charge extra for after-hours emergency calls?",
+        "answer": "Emergency visits include a modest after-hours fee, but the diagnostic and repair rates stay the same. We waive the fee if you approve the recommended work."
+      },
+      {
+        "question": "How fast can you be on-site?",
+        "answer": "Around Fortville, Fishers, and greater Indianapolis we typically arrive within 90 minutes. For outlying towns we provide a realistic ETA and keep you updated en route."
+      },
+      {
+        "question": "Can you help me shut off the water remotely?",
+        "answer": "If you know where your main valve is we can walk you through shutting it off by phone. If not, a tech will locate it immediately upon arrival."
+      }
+    ]
+  },
+  {
+    "slug": "drain-cleaning",
+    "title": "Drain Cleaning",
+    "excerpt": "Keep your drains flowing with thorough clearing and preventative treatment.",
+    "icon": "drain",
+    "hero": {
+      "headline": "Kick recurring clogs for good.",
+      "subheadline": "We pair mechanical cleaning with camera inspections to solve the actual cause, not just clear what’s in reach."
+    },
+    "problems": [
+      "Kitchen sink or dishwasher backups and bad odors",
+      "Slow bathtubs or showers that pool water at your feet",
+      "Laundry standpipes overflowing mid-cycle",
+      "Main sewer lines backing up floor drains or toilets"
+    ],
+    "symptoms": [
+      "Gurgling drains and air bubbles when other fixtures run",
+      "Sewage smells coming from rarely used drains",
+      "Water stains near basement floor drains",
+      "Recurring clogs right after snaking with consumer tools"
+    ],
+    "solutions": [
+      "Cable machine clearing for heavy build-up and wipes",
+      "Hydro-jetting to scour grease, scale, and soap residue",
+      "Bio-enzyme treatments to keep lines healthy post-cleaning",
+      "Video inspection with footage shared so you can see the fix"
+    ],
+    "expectations": [
+      "We protect surrounding areas before starting and clean up fully after",
+      "Technicians explain what we removed and how to prevent the issue",
+      "Written warranty for the line cleaned when proper access is available",
+      "Upfront pricing based on access points and equipment required"
+    ],
+    "faqs": [
+      {
+        "question": "Will you use chemicals to clear the drain?",
+        "answer": "No harsh acids. We rely on mechanical cleaning and safe enzyme treatments so pipes and septic systems stay intact."
+      },
+      {
+        "question": "How do I know if the clog is in the main line?",
+        "answer": "If multiple fixtures back up at once, especially lower level drains, it’s usually the main. We confirm with a camera before any major work."
+      },
+      {
+        "question": "Do you offer maintenance plans?",
+        "answer": "Yes. Annual or semi-annual jetting keeps commercial kitchens and busy households flowing. We’ll customize a schedule for you."
+      }
+    ]
+  },
+  {
+    "slug": "leak-detection-repair",
+    "title": "Leak Detection & Repair",
+    "excerpt": "Stop hidden leaks before they damage drywall, flooring, or foundations.",
+    "icon": "leak",
+    "hero": {
+      "headline": "Find the drip. Fix it right.",
+      "subheadline": "Our techs use acoustic tools, thermal imaging, and experience to locate tough leaks with minimal drywall cuts."
+    },
+    "problems": [
+      "Slab leaks raising water bills and warming flooring",
+      "Ceiling stains from second-floor bathrooms or laundry rooms",
+      "Persistent running toilets and fill valves wasting water",
+      "Leaking hose bibbs or outdoor lines causing foundation issues"
+    ],
+    "symptoms": [
+      "Higher water bills without any change in usage",
+      "Musty smells, paint bubbling, or warped baseboards",
+      "Water meter spinning even when fixtures are off",
+      "Sump pit cycling with no rain present"
+    ],
+    "solutions": [
+      "Pressure testing and isolation to pinpoint the leaking line",
+      "Thermal imaging and acoustic equipment to avoid tearing into walls blindly",
+      "Spot repairs or reroutes using PEX, copper, or CPVC depending on the home",
+      "Moisture mitigation guidance and referrals for restoration when needed"
+    ],
+    "expectations": [
+      "We treat your home like our own, using clean drop cloths and shoe covers",
+      "Detailed explanation of repair options before any opening is made",
+      "Permanent fix with new materials and tested connections",
+      "Warranty on labor and materials supplied by Simple Man Plumbing"
+    ],
+    "faqs": [
+      {
+        "question": "Can you work with my insurance company?",
+        "answer": "Yes. We can provide documentation, photos, and communicate directly with adjusters to help move your claim forward."
+      },
+      {
+        "question": "Will you need to open up walls?",
+        "answer": "When leaks hide behind finishes we make surgical openings and minimize disruption. We’ll recommend trusted restoration partners for patching."
+      },
+      {
+        "question": "Do you install water monitoring systems?",
+        "answer": "Absolutely. Smart shutoff valves and leak sensors can alert you early and even shut the water off automatically."
+      }
+    ]
+  },
+  {
+    "slug": "water-heater-install-repair",
+    "title": "Water Heater Install & Repair",
+    "excerpt": "Keep the hot water flowing with repairs, maintenance, and replacement options.",
+    "icon": "waterHeater",
+    "hero": {
+      "headline": "Hot water, without the guesswork.",
+      "subheadline": "We service all brands, stock common parts, and install new tank or tankless systems with manufacturer-backed warranties."
+    },
+    "problems": [
+      "No hot water or temperature swings when multiple fixtures run",
+      "Leaking tank threatening to flood a basement or utility closet",
+      "Pilot light failures or error codes on tankless systems",
+      "Old units pushing past 10 years and losing efficiency"
+    ],
+    "symptoms": [
+      "Rust colored water or sediment buildup at faucets",
+      "Popping sounds from the tank when heating",
+      "Water taking longer to recover after showers",
+      "Gas or exhaust smells near the water heater"
+    ],
+    "solutions": [
+      "Full diagnostics, flushes, and anode replacement to extend life",
+      "Same-day tank swaps with haul-away and code upgrades",
+      "High-efficiency tankless installations sized for your household",
+      "Annual maintenance plans with descaling and performance checks"
+    ],
+    "expectations": [
+      "Transparent comparison of repair vs. replacement costs",
+      "Proper venting, expansion tank, and drain pan installed to code",
+      "Permit handling and inspections where required",
+      "Cleanup of all debris with instructions on care and warranty"
+    ],
+    "faqs": [
+      {
+        "question": "Do you offer financing on new water heaters?",
+        "answer": "Yes. We partner with financing providers to offer promotional 0% APR for qualified replacements."
+      },
+      {
+        "question": "How long does a replacement take?",
+        "answer": "Most standard tank swaps are finished in 3–4 hours. Tankless conversions may take a full day depending on venting and gas line upgrades."
+      },
+      {
+        "question": "Will you remove and recycle my old heater?",
+        "answer": "Absolutely. Every replacement includes haul-away and responsible recycling of your old unit."
+      }
+    ]
+  },
+  {
+    "slug": "sump-pumps",
+    "title": "Sump Pumps",
+    "excerpt": "Keep basements dry with reliable pumps, back-ups, and regular testing.",
+    "icon": "sumpPump",
+    "hero": {
+      "headline": "Stay ahead of spring storms.",
+      "subheadline": "Simple Man Plumbing installs, replaces, and maintains sump and ejector pumps that keep Indiana basements dry."
+    },
+    "problems": [
+      "Primary sump pump failure during storms",
+      "Backup pump batteries dead or missing entirely",
+      "Noise, vibration, or short-cycling pumps",
+      "Ejector pit odors coming from basements or utility rooms"
+    ],
+    "symptoms": [
+      "Water lingering in the crock even when the pump runs",
+      "Rusty or corroded pump components",
+      "Breaker tripping when the pump turns on",
+      "Basement humidity spikes and musty smells"
+    ],
+    "solutions": [
+      "High-output Zoeller and Liberty pump installations",
+      "Battery or water-powered backups with monitoring alerts",
+      "Check valve replacement and discharge pipe upgrades",
+      "Annual maintenance with crock cleaning and performance testing"
+    ],
+    "expectations": [
+      "We spec the right pump for your pit depth and groundwater level",
+      "Neat piping with unions for future maintenance",
+      "Battery backups tested and homeowner instructed on alarms",
+      "Warranty paperwork provided with maintenance schedule"
+    ],
+    "faqs": [
+      {
+        "question": "Do you offer maintenance plans?",
+        "answer": "Yes. We’ll test the pump, clean the crock, and replace batteries before storm season hits."
+      },
+      {
+        "question": "Can you add a backup pump to my existing system?",
+        "answer": "Absolutely. We can retrofit battery backups or even smart monitoring to most pits."
+      },
+      {
+        "question": "What brands do you install?",
+        "answer": "We trust Zoeller and Liberty for their durability and readily available parts in our region."
+      }
+    ]
+  },
+  {
+    "slug": "faucets-toilets-fixtures",
+    "title": "Faucets, Toilets & Fixtures",
+    "excerpt": "Updates and repairs that modernize your kitchen or bath without the mess.",
+    "icon": "fixtures",
+    "hero": {
+      "headline": "Fresh fixtures, professionally installed.",
+      "subheadline": "From disposals to freestanding tubs, we make fixture upgrades easy with tidy workmanship."
+    },
+    "problems": [
+      "Leaking faucets wasting water and staining sinks",
+      "Running toilets or cracked tanks needing replacement",
+      "Garbage disposals jammed or leaking",
+      "Shower valves sticking or fluctuating temperatures"
+    ],
+    "symptoms": [
+      "Water dripping constantly even after tightening handles",
+      "Toilets refilling on their own or phantom flushing",
+      "Under-sink water damage from fixture supply lines",
+      "Outdated chrome fixtures bringing down your remodel"
+    ],
+    "solutions": [
+      "On-truck stock of common cartridges and repair kits",
+      "Toilet rebuilds or efficient replacements with haul-away",
+      "Garbage disposal installs wired and tested to code",
+      "Custom fixture installs homeowners source from their showroom"
+    ],
+    "expectations": [
+      "We protect countertops and flooring before work begins",
+      "Every joint tested and inspected with you before we leave",
+      "Old fixtures removed or left for you—your choice",
+      "Clear care instructions and warranty information provided"
+    ],
+    "faqs": [
+      {
+        "question": "Can you install fixtures I purchased myself?",
+        "answer": "Yes. We’re happy to install homeowner-supplied fixtures as long as they’re in good condition and meet code."
+      },
+      {
+        "question": "Do you handle minor carpentry or drywall after?",
+        "answer": "We patch small openings behind toilets or vanities. For larger drywall/tiling we can refer trusted partners."
+      },
+      {
+        "question": "Will you check for other issues while you’re here?",
+        "answer": "Absolutely. Every visit includes a quick home plumbing check and we’ll point out anything that needs attention."
+      }
+    ]
+  }
+]
+
+
+

@@ -1,0 +1,18 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="40" fill="#F1F5F9"/>
+  <g opacity="0.9">
+    <circle cx="260" cy="420" r="120" fill="#0EA5E9" opacity="0.1"/>
+    <circle cx="590" cy="380" r="150" fill="#0EA5E9" opacity="0.08"/>
+    <circle cx="910" cy="430" r="130" fill="#0EA5E9" opacity="0.05"/>
+  </g>
+  <rect x="140" y="460" width="220" height="140" rx="20" fill="white" stroke="#0EA5E9" stroke-width="2" opacity="0.6"/>
+  <rect x="490" y="420" width="220" height="180" rx="20" fill="white" stroke="#0EA5E9" stroke-width="2" opacity="0.6"/>
+  <rect x="840" y="450" width="220" height="150" rx="20" fill="white" stroke="#0EA5E9" stroke-width="2" opacity="0.6"/>
+  <text x="600" y="250" text-anchor="middle" font-family="Sora, Arial, sans-serif" font-size="48" font-weight="600" fill="#0B3A53">
+    Simple Man Plumbing
+  </text>
+  <text x="600" y="310" text-anchor="middle" font-family="Manrope, Arial, sans-serif" font-size="20" fill="#1F2937" opacity="0.7">
+    Fortville-based plumbers covering greater Indianapolis
+  </text>
+</svg>
+

@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "emergency-plumbing",
+    "title": "Emergency Plumbing",
+    "excerpt": "Burst pipes, failed sump pumps, sewer backups, or sudden leaks - we respond 24/7 across central Indiana.",
+    "icon": "emergency"
+  },
+  {
+    "slug": "drain-cleaning",
+    "title": "Drain Cleaning",
+    "excerpt": "Slow tubs, gurgling sinks, or mains backing up. Hydro-jetting, cable machines, and camera inspections included.",
+    "icon": "drain"
+  },
+  {
+    "slug": "leak-detection-repair",
+    "title": "Leak Detection & Repair",
+    "excerpt": "Pinpoint hidden slab leaks, wall leaks, and running toilets before they cause major damage.",
+    "icon": "leak"
+  },
+  {
+    "slug": "water-heater-install-repair",
+    "title": "Water Heaters",
+    "excerpt": "Same-day repairs, tank and tankless replacements, and annual flushes to keep hot water steady.",
+    "icon": "waterHeater"
+  },
+  {
+    "slug": "sump-pumps",
+    "title": "Sump Pumps",
+    "excerpt": "Primary, battery backup, and ejector pump installs to keep basements dry through Midwest storms.",
+    "icon": "sumpPump"
+  },
+  {
+    "slug": "faucets-toilets-fixtures",
+    "title": "Fixtures & Upgrades",
+    "excerpt": "Kitchen faucets, disposals, shower valves, and toilet replacements done neatly and quickly.",
+    "icon": "fixtures"
+  }
+]

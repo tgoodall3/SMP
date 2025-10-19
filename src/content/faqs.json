@@ -1,0 +1,56 @@
+{
+  "general": [
+    {
+      "slug": "availability",
+      "question": "Do you really answer after hours?",
+      "answer": "Yes. Our dispatcher rotates on-call duty so urgent calls never go to voicemail. If it's not an emergency, leave a message or schedule online and we’ll confirm first thing in the morning."
+    },
+    {
+      "slug": "pricing",
+      "question": "How does your pricing work?",
+      "answer": "After diagnosis we give you straightforward pricing that includes labor, materials, and warranty. If additional work pops up we stop, explain, and get your approval before proceeding."
+    },
+    {
+      "slug": "warranty",
+      "question": "What kind of warranty do you offer?",
+      "answer": "Most repairs carry a 12-month labor warranty. Equipment like water heaters or pumps include the full manufacturer warranty, and we handle any paperwork for you."
+    }
+  ],
+  "emergency-plumbing": [
+    {
+      "question": "Will you bill my insurance directly?",
+      "answer": "We collect payment at the time of service and provide a detailed invoice with photos so you can submit for reimbursement. For large losses we’ll coordinate with adjusters."
+    }
+  ],
+  "drain-cleaning": [
+    {
+      "question": "Can tree roots be removed without digging?",
+      "answer": "Yes. We mechanically remove roots inside the pipe and offer trenchless options when structural repairs are needed. We'll show you camera footage so you can see the condition."
+    }
+  ],
+  "leak-detection-repair": [
+    {
+      "question": "Do you repair slab leaks without jackhammering?",
+      "answer": "When possible we reroute lines overhead or through walls to avoid breaking concrete. If excavation is required we keep the opening tight and prep it for restoration."
+    }
+  ],
+  "water-heater-install-repair": [
+    {
+      "question": "Do you dispose of the old unit?",
+      "answer": "Yes, haul-away is always included. We recycle tanks and handle any permit closeout required by your municipality."
+    }
+  ],
+  "sump-pumps": [
+    {
+      "question": "Can I monitor the pump from my phone?",
+      "answer": "Absolutely. We install smart controllers that send alerts for high water levels, power loss, and maintenance reminders."
+    }
+  ],
+  "faucets-toilets-fixtures": [
+    {
+      "question": "Do you work with designers or contractors?",
+      "answer": "Yes. We coordinate fixture installs with your remodel schedule and communicate clearly to keep projects on track."
+    }
+  ]
+}
+

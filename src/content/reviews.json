@@ -1,0 +1,44 @@
+[
+  {
+    "id": "review-amy",
+    "name": "Amy L.",
+    "city": "Fortville",
+    "rating": 5,
+    "body": "Andrew showed up within an hour of my call, walked me through what failed, and had the leak fixed before school pickup. No pushy upsells - just solid work."
+  },
+  {
+    "id": "review-marcus",
+    "name": "Marcus P.",
+    "city": "Indianapolis (Southside)",
+    "rating": 5,
+    "body": "They replaced our water heater the same day it died. Pricing was exactly what they quoted and they left the utility closet cleaner than they found it."
+  },
+  {
+    "id": "review-sarah",
+    "name": "Sarah T.",
+    "city": "Fishers",
+    "rating": 5,
+    "body": "Simple Man Plumbing is my go-to. Techs wear booties, explain every step, and even text when they're headed over. Five stars every time."
+  },
+  {
+    "id": "review-david",
+    "name": "David K.",
+    "city": "Greenfield",
+    "rating": 5,
+    "body": "Our sump pump failed during a storm. SMP installed a new primary and backup system that night and walked me through testing it."
+  },
+  {
+    "id": "review-jess",
+    "name": "Jess R.",
+    "city": "Indianapolis (Northside)",
+    "rating": 5,
+    "body": "Honest, straightforward plumbers. They gave me three options for my drain issue and even showed the camera footage so I could see the problem."
+  },
+  {
+    "id": "review-tony",
+    "name": "Tony H.",
+    "city": "Lawrence",
+    "rating": 4.8,
+    "body": "Scheduling was easy, the tech was punctual, and pricing matched the estimate. Highly recommend for any plumbing repairs."
+  }
+]
